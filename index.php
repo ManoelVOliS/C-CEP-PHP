@@ -9,10 +9,7 @@
 </head>
 <body>
   <div class="content-wrapper">
-    <h1>Lorem ipsum dolor</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos dist</p>
-    <div class="login-btn"><a href="/src/front/registro.php">Cadastrar<a></div>
-    <a href="/src/front/map.php">Ver mapa</a>
+    <div class="login-btn"><a href="/src/front/registro.php">Adicionar<a></div>
   </div>
 </body>
 </html>
